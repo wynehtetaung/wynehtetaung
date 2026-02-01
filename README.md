@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hi there, I'm Wyne Htet Aung</h1>
+<h1 align="center">👨‍💻 Hi there, I'm Wyne Htet</h1>
 <p align="center">
   🚀 Passionate Developer | 💡 Turning ideas into reality with code
 </p>
